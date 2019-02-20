@@ -1,0 +1,53 @@
+{
+	"ImportPath": "github.com/pisektest",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/labstack/echo",
+			"Comment": "v4.0.0-6-gbe919e8",
+			"Rev": "be919e8f16c2e1a07d8002ae652564e7e3427e4e"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/color",
+			"Comment": "v0.2.8-2-g82ef680",
+			"Rev": "82ef680aef5189b68682876cf70d09daa4ac0f51"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/log",
+			"Comment": "v0.2.8-2-g82ef680",
+			"Rev": "82ef680aef5189b68682876cf70d09daa4ac0f51"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.1.0",
+			"Rev": "efa589957cd060542a26d2dd7832fd6a6c6c3ade"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Comment": "v0.0.4-6-g3fb116b",
+			"Rev": "3fb116b820352b7f0c281308a4d6250c22d94e27"
+		},
+		{
+			"ImportPath": "github.com/valyala/bytebufferpool",
+			"Comment": "v1.0.0-1-gcdfbe93",
+			"Rev": "cdfbe9377474227bb42120c1e22fd4433e7f69bf"
+		},
+		{
+			"ImportPath": "github.com/valyala/fasttemplate",
+			"Rev": "dcecefd839c4193db0d35b88ec65b4c12d360ab0"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "a4c6cb3142f211c99e4bf4cd769535b29a9b616f"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "a4c6cb3142f211c99e4bf4cd769535b29a9b616f"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "90b0e4468f9980bf79a2290394adaf7f045c5d24"
+		}
+	]
+}
